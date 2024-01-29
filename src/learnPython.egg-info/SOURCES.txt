@@ -1,0 +1,6 @@
+README
+setup.py
+src/learnPython.egg-info/PKG-INFO
+src/learnPython.egg-info/SOURCES.txt
+src/learnPython.egg-info/dependency_links.txt
+src/learnPython.egg-info/top_level.txt
